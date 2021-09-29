@@ -1,0 +1,46 @@
+body{
+	background-color:#e7cf87;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 50px;
+}
+
+h1 {
+	font-family: "Birthstone";
+	font-size:85px;
+	color: #05552f;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: "Lakki Reddy";
+	font-size: 22px;
+	color: #6037ac;
+}
+
+h2 {
+	font-family: "Birthstone";
+	font-weight: bold;
+	color:#05552f;
+	font-size: 45px;
+}
+
+p {
+	font-family: "Lakki Reddy";
+	color: #6037ac;
+	font-size: 20px;
+}
+
+ul {
+	font-family: "Lakki Reddy";
+	color: #6037ac;
+	font-size: 20px;
+}
+
+.container{
+	width: 600px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
