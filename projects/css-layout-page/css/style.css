@@ -1,0 +1,25 @@
+img{
+    max-width: 500px;
+}
+
+.logo{
+    width: 100px;
+}
+
+body{
+    padding-left: 50px;
+    background-color: bisque;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    color: red;
+    text-align: center;
+}
+
+.container{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:normal;
+    text-align: center;
+}
