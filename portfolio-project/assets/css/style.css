@@ -1,42 +1,47 @@
 body{
-	padding-left: 50px;
 	padding-top: 25px;
 	background-color:darkslategray;
-}
-
-h1{
-	font-family: mate sc;
-	font-size: 70px;
-	color:honeydew;
-}
-
-h2{
-	font-family: pompiere;
-	font-size: 40px;
-	color:honeydew;
-}
-
-h3,
-ul{
-	font-family: pompiere;
+	margin-bottom: 50px;
+	font-family: 'Pompiere', cursive;
 	font-size: 25px;
-	font-style: italic;
 	font-weight: bold;
 	color:black;
 }
 
+h1{
+	font-family: 'Mate SC', serif;
+	font-size: 2.8em;
+	color:honeydew;
+}
+
+h2,
+a{
+	font-size: 1.8em;
+	color:darkslategray;
+	font-style: italic;
+}
+
+h3{
+	color:honeydew;
+}
+
 h4{
-	font-family: pompiere;
-	font-size: 30px;
+	font-size: 1.1em;
 	font-weight: bold;
 	
 }
 
-.container {
-	float: left;
-	margin-bottom: 50px;
+
+.nav a{
+	color:white;
+	text-transform: uppercase;
+	font-style: normal;
 }
 
+main{
+	background-color: white;
+	padding:40px;
+}
 
 
 
