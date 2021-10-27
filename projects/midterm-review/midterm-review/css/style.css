@@ -1,0 +1,56 @@
+.nav{
+	width: 100px;
+	margin: auto
+}
+
+h1{
+	font-size: 4.5em;
+	font-family: 'Cormorant', serif;
+	font-style: italic;
+}
+
+h2{
+	font-size: 1.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+h3{
+	font-size: 0.8em;
+	font-family: 'Roboto', sans-serif;
+}
+
+h4{
+	font-family: 'Cormorant', serif;
+	font-weight: bold;
+}
+
+.container-1{
+	margin-left: 1px;
+	margin-right: 40px;
+}
+
+p{
+	font-size: 18px;
+	font-family: 'cormorant', serif;
+}
+
+img{
+	padding:40px;
+}
+
+.container-2{
+	background-color: #FFECED;
+	float: center;
+}
+
+span{
+	padding:5px;
+	background-color:#C6200C;
+	color: white;
+}
+
+
+
+
+
+
