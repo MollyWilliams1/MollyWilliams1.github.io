@@ -1,0 +1,83 @@
+.logo{
+	width:150px;
+	margin:auto;
+	margin-top: 10px;
+	margin-bottom: 60px;
+}
+
+h1{
+	font-size: 3.5em;
+	font-weight:700;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	height: 1.5;
+}
+
+.byline,
+.green,
+.caption,
+body{
+	font-family: 'Roboto Mono', monospace;
+}
+
+.caption{
+	font-weight: 200;
+	font-style: italic;
+	color:gray;
+	font-weight: 200;
+}
+
+.caption,
+.page-end{
+	margin-bottom: 40px;
+}
+
+.green{
+	font-style: italic;
+	background-color:#7ffa04;
+	font-size: .9em;
+}
+
+.caption,
+.chart-text{
+	font-size: .8em;
+}
+.lebron{
+	margin-bottom: 10px;
+	box-shadow: 10px 7px #7ffa04;
+}
+
+.link{
+	font-weight: 600;
+	color: black;
+}
+
+.link:hover{
+	color:chartreuse;
+}
+
+.year{
+	color:white;
+	background-color: black;
+	font-weight: 500;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.graphic,
+.chart-1{
+	margin-top: 30px;
+}
+
+.graphic,
+.chart-6{
+	margin-bottom: 30px;
+}
+
+footer{
+	border-top: 2px dashed gray;
+	font-size: .8em;
+	margin-bottom: 40px;
+}
